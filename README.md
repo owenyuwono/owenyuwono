@@ -15,26 +15,26 @@
 ---
 <br />
 
-<div>
+<p align="center">
     <a href="https://www.linkedin.com/in/owenyuwono/">
-    <img src="assets/linkedin.svg" width="32" height="32" />
+        <img src="assets/linkedin.svg" width="32" height="32" />
     </a>
     <a href="https://instagram.com/owen.yuwono/">
-    <img src="assets/instagram.svg" width="32" height="32" />
+        <img src="assets/instagram.svg" width="32" height="32" />
     </a>
     <a href="https://twitter.com/owenyuwono/">
-    <img src="assets/twitter.svg" width="32" height="32" />
+        <img src="assets/twitter.svg" width="32" height="32" />
     </a>
     <a href="https://dev.to/owenyuwono/">
-    <img src="assets/dev-dot-to.svg" width="32" height="32" />
+        <img src="assets/dev-dot-to.svg" width="32" height="32" />
     </a>
     <a href="https://owenyuwono.medium.com/">
-    <img src="assets/medium.svg" width="32" height="32" />
+        <img src="assets/medium.svg" width="32" height="32" />
     </a>
     <a href="https://github.com/owenyuwono/?tab=follow">
-    <img src="assets/github.svg" width="32" height="32" />
+        <img src="assets/github.svg" width="32" height="32" />
     </a>
     <a href="mailto:owenyuwono@gmail.com">
-    <img src="assets/gmail.svg" width="32" height="32" />
+        <img src="assets/gmail.svg" width="32" height="32" />
     </a>
-</div>
+</p>
