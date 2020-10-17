@@ -21,18 +21,20 @@ My name is Owen Yuwono.
 <a href="https://www.linkedin.com/in/owenyuwono/">
   <img src="https://img.shields.io/badge/-Owen_Yuwono-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owenyuwono/" />
 </a>
+<a href="https://github.com/owenyuwono/?tab=follow">
+  <img src="https://img.shields.io/github/followers/owenyuwono?label=Follow&style=social" />
+</a>
 <a href="mailto:owenyuwono@gmail.com">
   <img src="https://img.shields.io/badge/-owenyuwono@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:owenyuwono@gmail.com" />
 </a>
+<br />
 <a href="https://dev.to/owenyuwono">
   <img src="https://img.shields.io/badge/owenyuwono-black?style=flat-square&logo=dev.to" />
-</a>
-<a href="https://github.com/owenyuwono/?tab=follow">
-  <img src="https://img.shields.io/github/followers/owenyuwono?label=Follow&style=social" />
 </a>
 <a href="https://owenyuwono.medium.com">
   <img src="https://img.shields.io/badge/owenyuwono-black?style=flat-square&logo=medium" />
 </a>
+<br />
 <a href="https://instagram.com/owen.yuwono">
   <img src="https://img.shields.io/badge/owen.yuwono-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
