@@ -1,40 +1,28 @@
-```asciidoc
-                 /\                 owen@github ----------------------------------------------------
-                /__\                . Focus: ............. Real-time simulation, distributed systems
-               /\  /\               . Location: .................................. Indonesia (GMT+7)
-              /__\/__\              . Building: ................ Aegis, 1,000,000-unit tower defense
-             /\  /\  /\             . Benchmark: ........................... 200,000 units at 120fps
-            /__\/__\/__\
-           /\  /\  /\  /\           - Engineering --------------------------------------------------
-          /__\/__\/__\/__\          . Graphics: ............. Vulkan, WebGPU, WebGL, Three.js, Godot
-         /\  /\  /\  /\  /\         . Rendering: .......... Virtualized geometry, GPU-driven culling
-        /__\/__\/__\/__\/__\        . Simulation: ........ SoA/ECS, flow fields, GPU instancing, VAT
-       /\  /\  /\  /\  /\  /\       . Backend: ............ Go, consensus, replication, partitioning
-      /__\/__\/__\/__\/__\/__\      . Networking: .... QUIC, binary protocols, authoritative netcode
-     /\  /\  /\  /\  /\  /\  /\     . Infra: ........... Kubernetes, Docker, PostgreSQL, Redis, gRPC
-    /__\/__\/__\/__\/__\/__\/__\    . Chain: ............ Cosmos SDK, CometBFT, EVM, contract audits
-   /\  /\  /\  /\  /\  /\  /\  /\
-  /__\/__\/__\/__\/__\/__\/__\/__\  - Languages ----------------------------------------------------
-                                    . Systems: ....................................... Rust, Go, C++
-                                    . Web: ...................................... TypeScript, Python
-                                    . Other: ......................... Solidity, GDScript, GLSL/WGSL
+# Owen Yuwono
 
-                                    - Repositories -------------------------------------------------
-                                    . poseidon: ............. Real-time FFT ocean, Three.js + WebGPU
-                                    . minos: .............. Rust/Vulkan engine, virtualized geometry
-                                    . gaia: ......................... Deterministic procedural grass
-                                    . dryad: .................. Procedural trees from planet physics
+Engineer working across three areas that don't usually overlap: distributed backend systems, real-time graphics and simulation, and blockchain infrastructure. Indonesia (GMT+7).
 
-                                    - Contact ------------------------------------------------------
-                                    . X: ............................................... @owenyuwono
-                                    . Studio: ........................................ teamtelor.dev
-```
+## Repositories
 
-<p align="center">
-<a href="https://github.com/owenyuwono/poseidon">poseidon</a> &nbsp;·&nbsp;
-<a href="https://github.com/owenyuwono/minos">minos</a> &nbsp;·&nbsp;
-<a href="https://github.com/owenyuwono/gaia">gaia</a> &nbsp;·&nbsp;
-<a href="https://github.com/owenyuwono/dryad">dryad</a> &nbsp;·&nbsp;
-<a href="https://teamtelor.dev">teamtelor.dev</a> &nbsp;·&nbsp;
-<a href="https://x.com/owenyuwono">@owenyuwono</a>
-</p>
+- [poseidon](https://github.com/owenyuwono/poseidon) — GPU-driven real-time FFT ocean, Three.js + WebGPU/TSL. Tessendorf spectrum, compute-shader IFFT, displacement and normals generated on GPU.
+- [minos](https://github.com/owenyuwono/minos) — Rust/Vulkan engine. Nanite-style virtualized geometry with cluster LOD, GPU-driven culling, and software rasterization for sub-pixel triangles. Tectonic planet generation, on-demand voxel terrain, FFT ocean.
+- [gaia](https://github.com/owenyuwono/gaia) — Deterministic procedural grass generation and rendering in the browser.
+- [dryad](https://github.com/owenyuwono/dryad) — Trees grown from planet physics and a seed.
+
+## Graphics and simulation
+
+Renderers written from scratch in Vulkan. Compute shaders, GPU-driven pipelines, virtualized geometry, LOD systems, ECS and struct-of-arrays layouts, spatial hashing, flow-field pathfinding, GPU instancing, procedural generation, physics. Three.js, WebGL, and WebGPU on the browser side.
+
+## Backend and distributed systems
+
+Go as the primary backend language, Rust where the hot path demands it. Consensus, replication, partitioning, consistency models, Byzantine fault tolerance. QUIC transport, custom binary protocols, and authoritative netcode with prediction, reconciliation, and lag compensation. MMO-scale architecture: spatial partitioning, interest management, simulation servers. Kubernetes, gRPC, PostgreSQL, Redis.
+
+## Blockchain
+
+Smart contract audits on DeFi lending and liquid staking protocols, covering reentrancy, oracle manipulation, access control, and economic attack surfaces. Cosmos SDK and CometBFT application-specific chains. A Bitcoin Ordinals indexer in Rust, protocol spec to working system in two weeks. Solidity on EVM.
+
+## Languages
+
+Rust, Go, C++, TypeScript, Python, Solidity, GDScript, GLSL/WGSL.
+
+X: [@owenyuwono](https://x.com/owenyuwono)
